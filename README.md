@@ -82,6 +82,4 @@ Now open another terminal and write ``~ cd client``
 
 And then write ``~ npm i`` and ``~ npm start``
 
-<br>
 
-Congratulations ,now you can ``signup`` and use the website
